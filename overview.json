@@ -1,0 +1,314 @@
+[
+  {
+    "Revenue": 1542873,
+    "TimeSegment": {
+      "start": "2015-10-30T00:00:00.000Z",
+      "end": "2015-10-30T01:00:00.000Z"
+    },
+    "Total_Users": 25870.365025679574,
+    "Active_Users": 25663.234535621155,
+    "Events": 219841,
+    "New_Users": 627,
+    "Revenue_Per_User": 60.11997427130462,
+    "Revenue_Per_Install": 2460.7224880382773
+  },
+  {
+    "Revenue": 951507,
+    "TimeSegment": {
+      "start": "2015-10-30T01:00:00.000Z",
+      "end": "2015-10-30T02:00:00.000Z"
+    },
+    "Total_Users": 21999.74809606301,
+    "Active_Users": 21645.03082683411,
+    "Events": 180535,
+    "New_Users": 704,
+    "Revenue_Per_User": 43.959604752347275,
+    "Revenue_Per_Install": 1351.5724431818182
+  },
+  {
+    "Revenue": 1249579,
+    "TimeSegment": {
+      "start": "2015-10-30T02:00:00.000Z",
+      "end": "2015-10-30T03:00:00.000Z"
+    },
+    "Total_Users": 22788.6120032498,
+    "Active_Users": 22379.16842640625,
+    "Events": 190488,
+    "New_Users": 666,
+    "Revenue_Per_User": 55.83670385739454,
+    "Revenue_Per_Install": 1876.2447447447448
+  },
+  {
+    "Revenue": 1431835,
+    "TimeSegment": {
+      "start": "2015-10-30T03:00:00.000Z",
+      "end": "2015-10-30T04:00:00.000Z"
+    },
+    "Total_Users": 21138.775691981165,
+    "Active_Users": 20871.041590726018,
+    "Events": 171367,
+    "New_Users": 540,
+    "Revenue_Per_User": 68.60390717807928,
+    "Revenue_Per_Install": 2651.546296296296
+  },
+  {
+    "Revenue": 772276,
+    "TimeSegment": {
+      "start": "2015-10-30T04:00:00.000Z",
+      "end": "2015-10-30T05:00:00.000Z"
+    },
+    "Total_Users": 16751.6765578988,
+    "Active_Users": 16512.70118710472,
+    "Events": 127832,
+    "New_Users": 428,
+    "Revenue_Per_User": 46.76860504222617,
+    "Revenue_Per_Install": 1804.3831775700935
+  },
+  {
+    "Revenue": 676121,
+    "TimeSegment": {
+      "start": "2015-10-30T05:00:00.000Z",
+      "end": "2015-10-30T06:00:00.000Z"
+    },
+    "Total_Users": 11626.339652812352,
+    "Active_Users": 11478.24997210812,
+    "Events": 91666,
+    "New_Users": 346,
+    "Revenue_Per_User": 58.90453698455411,
+    "Revenue_Per_Install": 1954.106936416185
+  },
+  {
+    "Revenue": 460741,
+    "TimeSegment": {
+      "start": "2015-10-30T06:00:00.000Z",
+      "end": "2015-10-30T07:00:00.000Z"
+    },
+    "Total_Users": 9891.900186439994,
+    "Active_Users": 9786.010525569085,
+    "Events": 69565,
+    "New_Users": 290,
+    "Revenue_Per_User": 47.081596611424715,
+    "Revenue_Per_Install": 1588.7620689655173
+  },
+  {
+    "Revenue": 448668,
+    "TimeSegment": {
+      "start": "2015-10-30T07:00:00.000Z",
+      "end": "2015-10-30T08:00:00.000Z"
+    },
+    "Total_Users": 12045.589585567788,
+    "Active_Users": 11966.357235367566,
+    "Events": 93970,
+    "New_Users": 237,
+    "Revenue_Per_User": 37.49411714652178,
+    "Revenue_Per_Install": 1893.113924050633
+  },
+  {
+    "Revenue": 613312,
+    "TimeSegment": {
+      "start": "2015-10-30T08:00:00.000Z",
+      "end": "2015-10-30T09:00:00.000Z"
+    },
+    "Total_Users": 10437.639711628208,
+    "Active_Users": 10402.083657745257,
+    "Events": 77043,
+    "New_Users": 174,
+    "Revenue_Per_User": 58.96049485656037,
+    "Revenue_Per_Install": 3524.7816091954023
+  },
+  {
+    "Revenue": 280467,
+    "TimeSegment": {
+      "start": "2015-10-30T09:00:00.000Z",
+      "end": "2015-10-30T10:00:00.000Z"
+    },
+    "Total_Users": 11916.54146371077,
+    "Active_Users": 11884.341826457725,
+    "Events": 92559,
+    "New_Users": 172,
+    "Revenue_Per_User": 23.599708262817334,
+    "Revenue_Per_Install": 1630.6220930232557
+  },
+  {
+    "Revenue": 264238,
+    "TimeSegment": {
+      "start": "2015-10-30T10:00:00.000Z",
+      "end": "2015-10-30T11:00:00.000Z"
+    },
+    "Total_Users": 15135.140477588295,
+    "Active_Users": 15055.073911954638,
+    "Events": 128639,
+    "New_Users": 174,
+    "Revenue_Per_User": 17.551424957812998,
+    "Revenue_Per_Install": 1518.6091954022988
+  },
+  {
+    "Revenue": 315160,
+    "TimeSegment": {
+      "start": "2015-10-30T11:00:00.000Z",
+      "end": "2015-10-30T12:00:00.000Z"
+    },
+    "Total_Users": 18459.1981545894,
+    "Active_Users": 18381.8305327445,
+    "Events": 160146,
+    "New_Users": 201,
+    "Revenue_Per_User": 17.14519124951072,
+    "Revenue_Per_Install": 1567.960199004975
+  },
+  {
+    "Revenue": 475073,
+    "TimeSegment": {
+      "start": "2015-10-30T12:00:00.000Z",
+      "end": "2015-10-30T13:00:00.000Z"
+    },
+    "Total_Users": 20921.611821568138,
+    "Active_Users": 20855.661348372643,
+    "Events": 174370,
+    "New_Users": 220,
+    "Revenue_Per_User": 22.779090629848078,
+    "Revenue_Per_Install": 2159.422727272727
+  },
+  {
+    "Revenue": 443892,
+    "TimeSegment": {
+      "start": "2015-10-30T13:00:00.000Z",
+      "end": "2015-10-30T14:00:00.000Z"
+    },
+    "Total_Users": 21241.078399945505,
+    "Active_Users": 21102.39427176157,
+    "Events": 174694,
+    "New_Users": 242,
+    "Revenue_Per_User": 21.035148632115153,
+    "Revenue_Per_Install": 1834.2644628099174
+  },
+  {
+    "Revenue": 360883,
+    "TimeSegment": {
+      "start": "2015-10-30T14:00:00.000Z",
+      "end": "2015-10-30T15:00:00.000Z"
+    },
+    "Total_Users": 21653.409347331013,
+    "Active_Users": 21487.51389279152,
+    "Events": 160754,
+    "New_Users": 290,
+    "Revenue_Per_User": 16.79500950182359,
+    "Revenue_Per_Install": 1244.4241379310345
+  },
+  {
+    "Revenue": 493477,
+    "TimeSegment": {
+      "start": "2015-10-30T15:00:00.000Z",
+      "end": "2015-10-30T16:00:00.000Z"
+    },
+    "Total_Users": 19435.337162466076,
+    "Active_Users": 19364.413648102305,
+    "Events": 144300,
+    "New_Users": 275,
+    "Revenue_Per_User": 25.48370474663767,
+    "Revenue_Per_Install": 1794.4618181818182
+  },
+  {
+    "Revenue": 541368,
+    "TimeSegment": {
+      "start": "2015-10-30T16:00:00.000Z",
+      "end": "2015-10-30T17:00:00.000Z"
+    },
+    "Total_Users": 20484.14636199859,
+    "Active_Users": 20210.320800761987,
+    "Events": 153687,
+    "New_Users": 316,
+    "Revenue_Per_User": 26.78670988634623,
+    "Revenue_Per_Install": 1713.1898734177216
+  },
+  {
+    "Revenue": 698030,
+    "TimeSegment": {
+      "start": "2015-10-30T17:00:00.000Z",
+      "end": "2015-10-30T18:00:00.000Z"
+    },
+    "Total_Users": 18920.985521814124,
+    "Active_Users": 18807.895285787126,
+    "Events": 137097,
+    "New_Users": 307,
+    "Revenue_Per_User": 37.11366898812393,
+    "Revenue_Per_Install": 2273.7133550488597
+  },
+  {
+    "Revenue": 665823,
+    "TimeSegment": {
+      "start": "2015-10-30T18:00:00.000Z",
+      "end": "2015-10-30T19:00:00.000Z"
+    },
+    "Total_Users": 19551.521227697376,
+    "Active_Users": 19428.10791825927,
+    "Events": 140247,
+    "New_Users": 336,
+    "Revenue_Per_User": 34.271119081762684,
+    "Revenue_Per_Install": 1981.6160714285713
+  },
+  {
+    "Revenue": 732768,
+    "TimeSegment": {
+      "start": "2015-10-30T19:00:00.000Z",
+      "end": "2015-10-30T20:00:00.000Z"
+    },
+    "Total_Users": 22269.774164808565,
+    "Active_Users": 21990.381388655627,
+    "Events": 159446,
+    "New_Users": 382,
+    "Revenue_Per_User": 33.32220515184059,
+    "Revenue_Per_Install": 1918.2408376963351
+  },
+  {
+    "Revenue": 1068012,
+    "TimeSegment": {
+      "start": "2015-10-30T20:00:00.000Z",
+      "end": "2015-10-30T21:00:00.000Z"
+    },
+    "Total_Users": 22309.685662916378,
+    "Active_Users": 22081.218450839333,
+    "Events": 165979,
+    "New_Users": 413,
+    "Revenue_Per_User": 48.367439612889825,
+    "Revenue_Per_Install": 2585.9854721549636
+  },
+  {
+    "Revenue": 1142492,
+    "TimeSegment": {
+      "start": "2015-10-30T21:00:00.000Z",
+      "end": "2015-10-30T22:00:00.000Z"
+    },
+    "Total_Users": 22446.129334434234,
+    "Active_Users": 22319.279283190837,
+    "Events": 170774,
+    "New_Users": 449,
+    "Revenue_Per_User": 51.188570450858464,
+    "Revenue_Per_Install": 2544.5256124721604
+  },
+  {
+    "Revenue": 1390492,
+    "TimeSegment": {
+      "start": "2015-10-30T22:00:00.000Z",
+      "end": "2015-10-30T23:00:00.000Z"
+    },
+    "Total_Users": 23536.12095341717,
+    "Active_Users": 23176.03361760721,
+    "Events": 173535,
+    "New_Users": 432,
+    "Revenue_Per_User": 59.99697890253407,
+    "Revenue_Per_Install": 3218.7314814814813
+  },
+  {
+    "Revenue": 1374572,
+    "TimeSegment": {
+      "start": "2015-10-30T23:00:00.000Z",
+      "end": "2015-10-31T00:00:00.000Z"
+    },
+    "Total_Users": 25166.08866083684,
+    "Active_Users": 25005.126822966227,
+    "Events": 181595,
+    "New_Users": 455,
+    "Revenue_Per_User": 54.9716068121482,
+    "Revenue_Per_Install": 3021.0373626373625
+  }
+]
